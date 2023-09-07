@@ -1,4 +1,4 @@
-let myVar = 123;
+// let myVar = 123;
 
-myVar = 333;
-// console.log(myVar);
+const myVar = 333;
+console.log(myVar);
