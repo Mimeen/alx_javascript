@@ -1,5 +1,5 @@
-function add(a, b) {
-    let sum = a + b;
-    return sum;
+function sum(num1, num2) {
+    let result = num1 + num2;
+    return result;
 }
 
