@@ -1,3 +1,3 @@
-function add(a, b) {
+add = function add(a, b) {
     console.log(a + b);
 }
