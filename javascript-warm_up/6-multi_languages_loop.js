@@ -5,7 +5,7 @@ let third_line = 'JavaScript is amazing';
 let n;
 
 for (n === 1; n <= 3; n++) {
-    console.log([first_line, second_line, third_line].join('\n'));
+    console.log('${first_line}\n${second_line}${third_line}');
 }
 /*
 function multi_languages () {
