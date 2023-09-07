@@ -1,7 +1,7 @@
-function add(num1, num2) {
+function add(a, b) {
     // let result = num1 + num2;
-    return num1 + num2;
+    return a + b;
 }
 
-let result = sum(a, b);
+let result = add(a, b);
 console.log(result);
