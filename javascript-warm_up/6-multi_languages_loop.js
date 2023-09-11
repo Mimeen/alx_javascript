@@ -1,8 +1,8 @@
-multi_languages = [first_line, second_line, third_line];
-
 let first_line = 'C is fun';
 let second_line = 'Python is cool';
 let third_line = 'JavaScript is amazing';
+
+multi_languages = [first_line, second_line, third_line];
 
 let n;
 
