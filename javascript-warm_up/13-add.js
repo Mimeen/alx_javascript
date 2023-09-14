@@ -1,3 +1,3 @@
-const add = (a, b) => {
-    return a + b;
+exports.add = function (a, b) {
+    console.log (a + b);
 }
